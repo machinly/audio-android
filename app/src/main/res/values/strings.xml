@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myth</string>
+    <string name="recorder_start">start recorder</string>
+    <string name="recorder_stop">stop recorder</string>
+</resources>
